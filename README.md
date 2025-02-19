@@ -1,5 +1,13 @@
-# NewCloudTest
-Testando meu conceito em Cloud
+Desafio Prático Google Cloud Platform (GCP)
+📌 Objetivo
+Este desafio tem como objetivo testar seus conhecimentos práticos na GCP, incluindo criação de infraestrutura, deploy de aplicações e automação.
+
+Cada tarefa contém instruções específicas e o que você precisa enviar para análise.
+
+📜 Requisitos
+Ter uma conta na Google Cloud Platform.
+Ter o gcloud CLI instalado e autenticado.
+Opcional: Docker e Terraform instalados.
 
 
 🚀 Desafio 1 - Criando Infraestrutura na GCP
