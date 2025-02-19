@@ -38,3 +38,4 @@ Saída do comando:
 gcloud compute instances describe minha-vm
 
 ![image](https://github.com/user-attachments/assets/0fa9737e-1a70-40d9-8f19-c64b8b27d838)
+
