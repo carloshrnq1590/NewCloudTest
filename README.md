@@ -39,3 +39,30 @@ gcloud compute instances describe minha-vm
 
 ![image](https://github.com/user-attachments/assets/0fa9737e-1a70-40d9-8f19-c64b8b27d838)
 
+
+
+
+
+
+✅ Tarefa 2: Configurar uma VPC Personalizada
+
+Criar uma VPC customizada chamada minha-vpc.
+
+Criar duas sub-redes:
+
+publica-subrede: CIDR 10.0.1.0/24
+privada-subrede: CIDR 10.0.2.0/24
+
+Criar uma regra de firewall para permitir conexões HTTP (porta 80) apenas na publica-subrede.
+
+📩 O que enviar para análise?
+
+Captura de tela da configuração da VPC e das sub-redes.
+
+Saída do comando:
+
+gcloud compute networks subnets list --filter="network: minha-vpc"
+
+
+![Sem título](https://github.com/user-attachments/assets/4bba247b-1c0d-46e1-b640-c8bf65d62de7)
+
